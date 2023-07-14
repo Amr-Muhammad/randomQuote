@@ -1,0 +1,60 @@
+h1 {
+    letter-spacing: 3px;
+    font-family: 'Concert One', cursive;
+    font-weight: 900;
+
+    font-size: 80px;
+    background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+    -webkit-background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+    -moz-background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+    -ms-background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+    -o-background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+
+    color: transparent;
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -ms-background-clip: text;
+    -o-background-clip: text;
+}
+
+span {
+    font-size: 110px;
+}
+
+body {
+    background: linear-gradient(45deg, black 25%, rgb(131, 117, 87));
+}
+
+#pTags {
+    background-color: rgba(17, 17, 17, 0.3);
+    box-shadow: 0px 0px 40px #ffecb3;
+}
+
+button {
+    background: linear-gradient(to bottom, #7e756169 22%, #7e6e5262 24%, #7e756160 26%, #7e756165 27%, #ffecb36b 40%, #3a2c0f67 78%);
+    border-radius: 15px;
+    color: white;
+    border: none;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-weight: 900;
+    font-size: 18PX;
+}
+
+.insert {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: white;
+    font-size: 22px;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    background: linear-gradient(to bottom, #7e7561 22%, #7e6e52 24%, #7e7561 26%, #7e7561 27%, #ffecb3 40%, #3a2c0f 78%);
+}
+
+.quote {
+    color: white;
+    font-style: italic;
+    font-size: 22px;
+}
